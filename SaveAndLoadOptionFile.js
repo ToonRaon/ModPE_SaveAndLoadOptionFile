@@ -87,5 +87,5 @@ function loadOption(option) {
 	}
 }
 
-saveOption("test", true);
-print(loadOption("test"));
+//saveOption("test", true);
+//print(loadOption("test"));
